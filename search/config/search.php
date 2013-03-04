@@ -10,5 +10,5 @@ return array(
             'morphy'
         ),
     ),
-    'dir_morphy_dicts' => MODPATH.'search/vendor/phpmorphy-0.3.7/dicts'//путь до словарей
+    'dir_morphy_dicts' => MODPATH.'search/vendor/phpmorphy-0.3.7/dicts'//путь до словарей PhpMorphy
 );
